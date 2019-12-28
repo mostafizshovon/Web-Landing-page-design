@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+}
+.nature{
+    background: #700045;
+    width: 1200;
+    padding: 20px;
+    box-sizing: border-box;
+    color: antiquewhite;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    
+}
+.nature h2{
+    margin: 0px;
+    padding: 0px;
+    font-size: 26px;
+    letter-spacing: 5px;
+}
+.header{
+    background: #f56307;
+    box-sizing: border-box;
+    text-align: justify;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.overflow{
+    overflow: hidden;
+}
+.num1{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+.post{
+    margin: 10px;
+    padding: 20px;
+    background: #700045;
+    overflow: hidden;
+    box-sizing: border-box;
+    color: #FAEBD7;
+    border-radius: 5px;
+    font-size: 15px;
+}
+img{
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    height: 140px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.an{
+    background: #FAEBD7;
+    color: #700045;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+.an:hover{
+    background: #F56307;
+    color: white;
+    border-radius: 5px;
+}
+.footer{
+    background: #700045;
+    padding: 20px;
+    box-sizing: border-box;
+    color: antiquewhite;
+    text-align: center;
+    text-transform: uppercase;
+}
+.footer h2{
+    padding: 0px;
+    margin: 0px;
+    font-size: 26px;
+    letter-spacing: 5px;
+}
